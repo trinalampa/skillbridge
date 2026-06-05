@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 40" fill="none">
+  <rect width="32" height="32" rx="8" y="4" fill="#3b5bdb"/>
+  <path d="M8 20 L16 12 L24 20 L16 28 Z" fill="white" opacity=".9"/>
+  <text x="42" y="27" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="800" fill="#3b5bdb">SkillBridge</text>
+</svg>
